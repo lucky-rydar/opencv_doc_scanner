@@ -1,0 +1,20 @@
+﻿  opencv_doc_scanner.cpp
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(23,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(26,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(35,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(87,54): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(87,47): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  1 of 364 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opencv_doc_scanner.vcxproj -> D:\my_projects\open_source_projects\opencv_doc_scanner\x64\Release\opencv_doc_scanner.exe

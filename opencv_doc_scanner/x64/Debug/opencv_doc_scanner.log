@@ -1,0 +1,15 @@
+﻿  opencv_doc_scanner.cpp
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(23,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(26,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(35,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(87,54): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\my_projects\open_source_projects\opencv_doc_scanner\opencv_doc_scanner\opencv_doc_scanner.cpp(87,47): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  opencv_doc_scanner.vcxproj -> D:\my_projects\open_source_projects\opencv_doc_scanner\x64\Debug\opencv_doc_scanner.exe
